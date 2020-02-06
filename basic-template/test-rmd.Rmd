@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "kelly"
+title: "R Markdown Template Document"
+author: "Kelly - RStudio"
 date: "2/4/2020"
 output: html_document
 ---
